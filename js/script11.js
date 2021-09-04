@@ -11,8 +11,8 @@ window.addEventListener("load",function(){
 
 window.addEventListener("load",function(){
   // animation on scroll 
-     AOS.init();
-  // AOS.init({disable: 'mobile'});
+    //  AOS.init();
+  AOS.init({disable: 'mobile'});
 });
 
 // portfolio Lightbox
